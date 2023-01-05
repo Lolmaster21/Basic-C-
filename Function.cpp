@@ -1,3 +1,6 @@
+//declare above main
+//define below main
+//call inside main (or another function)
 #include <iostream>
 using namespace std;
 
