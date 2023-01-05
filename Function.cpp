@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
 
-void wards();
+void wards(); //Name of function
 
 int main()
 {
-    wards();
+    wards(); //Calls the function
 }
 
-void wards() {
+void wards() { // Function definiton
     cout << "Hi nerds" << endl;
 
 }
